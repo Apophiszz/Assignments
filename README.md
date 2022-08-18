@@ -1,5 +1,4 @@
 # Assignments
-QA assignments
 
 Implement a program that will launch a specified process and periodically (with a provided time interval) collect the following data about it:
 •	CPU usage (percent);
