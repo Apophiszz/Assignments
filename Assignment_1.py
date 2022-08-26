@@ -1,7 +1,7 @@
 import time
 import psutil
 import os
-
+import json
 
 def write_file(process_id):
     # Grab process object for given pid
